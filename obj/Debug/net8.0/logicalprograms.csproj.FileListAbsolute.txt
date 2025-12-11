@@ -1,0 +1,14 @@
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\bin\Debug\net8.0\logicalprograms.exe
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\bin\Debug\net8.0\logicalprograms.deps.json
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\bin\Debug\net8.0\logicalprograms.runtimeconfig.json
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\bin\Debug\net8.0\logicalprograms.dll
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\bin\Debug\net8.0\logicalprograms.pdb
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.AssemblyInfoInputs.cache
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.AssemblyInfo.cs
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.csproj.CoreCompileInputs.cache
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.dll
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\refint\logicalprograms.dll
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.pdb
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\logicalprograms.genruntimeconfig.cache
+C:\Vaanam Tech\Workout\Logical Programs\logicalprograms\obj\Debug\net8.0\ref\logicalprograms.dll
